@@ -44,4 +44,19 @@ func main() {
 	var myStr2 = "123"
 	myStr3 := "456"
 	fmt.Print(myStr, myStr2, myStr3)
+
+	// 
+	var isOk bool
+	var num1 int
+	var num2 int8
+	var num3 int16
+	var num4 int32
+	var num5 int64
+	var num6 float64
+	var num7 float32
+	// 其它值类型
+
+	// array、struct、string
+	// 引用类型
+	// slice、map、chan
 }
